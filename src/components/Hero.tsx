@@ -1,6 +1,6 @@
 import React from 'react'
 import { Poppins } from 'next/font/google'
-import Link from 'next/link';
+// import Link from 'next/link';
 // import Counter from '../Counter';
 import Image from 'next/image';
 import Cover from "../../public/cover.png"
